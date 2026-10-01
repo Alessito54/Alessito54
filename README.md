@@ -1,112 +1,98 @@
-<h1 align="center">Hey 👋 I'm Alessandro</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineering Student from Mexico 🇲🇽 <br>
-  Passionate about Backend Development, IoT and Clean UI Design
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Alessandro&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn" width="100%" alt="Alessandro" />
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=7AA2F7&center=true&vCenter=true&width=600&height=30&lines=Software+Engineering+Student;Backend+Development;IoT+%26+Embedded+Systems;Software+Architecture;Clean+UI+Design" alt="Typing animation" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/ariel-alessandro-osorio-pedraza-53699a353">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
+</a>
+
+<a href="mailto:arielpedraza10@outlook.com">
+  <img src="https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=microsoft-outlook&logoColor=7aa2f7" alt="Email" />
+</a>
+
+<a href="https://www.instagram.com/alessandropdrz/">
+  <img src="https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=7aa2f7" alt="Instagram" />
+</a>
+
+<img src="https://img.shields.io/badge/Mexico-1a1b27?style=flat-square&logo=googlemaps&logoColor=7aa2f7" alt="Location" />
+
+</div>
+
+<br>
+
+## About
+
+I am a Software Engineering student focused on **Backend Development, Software Architecture and IoT**. I enjoy building reliable systems, designing REST APIs and connecting software with physical devices.
+
+I prefer simple solutions, clean structure and maintainable code, while continuously improving the way I design and build software.
+
+| Currently learning    | Currently building with |
+| :-------------------- | :---------------------- |
+| Spring Boot           | Java                    |
+| React                 | Node.js                 |
+| Networking            | TypeScript              |
+| Software Architecture | ESP32 / ESP8266         |
+
+<br>
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alessito54&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alessito54&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,python,html,css&theme=dark" alt="Languages and frameworks" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,linux,arduino,git,github&theme=dark" alt="Databases, systems and tools" />
+
 </div>
 
-###
+<br>
 
-<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh0ZGF6OGYyZTc1ZzBuemp5enhhOG8zZjl0aG84bDR0dThtZTkyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfg0ESyhKOv4Vva/giphy.gif" />
 
-## 🚀 About Me
+<br>
 
-- 🎓 Software Engineering student
-- 💻 Interested in Backend Development & IoT
-- 🌱 Currently learning Spring Boot, React and Networking
-- ⚡ Building projects with Java, Node.js and ESP devices
-- 🏍️ Motorcycle enthusiast & gym enjoyer
+## GitHub Activity
 
-###
+<div align="center">
 
-## 🛠️ Tech Stack
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alessito54&show_icons=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=2a2b3d&border_radius=10" alt="GitHub stats" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="12" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alessito54&layout=compact&langs_count=6&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&border_color=2a2b3d&border_radius=10" alt="Top languages" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="12" />
+<br><br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="12" />
+<img width="97%" src="https://streak-stats.demolab.com/?user=Alessito54&theme=tokyonight&border_radius=10&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&border=2a2b3d" alt="GitHub streak" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
 </div>
 
-###
+<br>
 
-## 🌐 Connect With Me
+## Contribution Graph
 
-<div align="left">
-  <a href="https://www.instagram.com/alessandropdrz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ariel-alessandro-osorio-pedraza-53699a353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-
-  <a href="mailto:arielpedraza10@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="outlook logo" />
-  </a>
-
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
-  </a>
-</div>
-
-###
-
-## 🐍 Contribution Graph
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alessito54/Alessito54/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alessito54/Alessito54/output/pacman-contribution-graph.svg">
-  
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alessito54/Alessito54/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Alessito54/Alessito54/output/pacman-contribution-graph-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Alessito54/Alessito54/output/pacman-contribution-graph.svg">
+
+<img
+ alt="Contribution graph"
+ src="https://raw.githubusercontent.com/Alessito54/Alessito54/output/pacman-contribution-graph.svg">
+
 </picture>
 
-###
-
-## 🎧 Recently Played on Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22agp5ggwyf7j4yaipifo44zy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22agp5ggwyf7j4yaipifo44zy&count=5&unique=false" alt="Spotify recently played" />
-  </a>
 </div>
 
-###
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
